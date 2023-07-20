@@ -47,8 +47,8 @@ const willy = {
 
 <div>
 <a href="https://github.com/will27nasc">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will27nasc&layout=compact&langs_count=7&theme=cobalt"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=will27nasc&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will27nasc&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=will27nasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Estou aprendendo
