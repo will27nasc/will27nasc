@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi everone, I'm Willy Fernando Nascimento! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" style="border-radius: 50%" width="230">
 <p><em>Buscando uma oportunidade como Dev Jr<a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
